@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/your-repo-name/static/css/main.e78e06d1.css",
-    "main.js": "/your-repo-name/static/js/main.1b62b3a3.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/your-repo-name/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/your-repo-name/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/your-repo-name/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/your-repo-name/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/your-repo-name/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/your-repo-name/index.html",
-    "main.e78e06d1.css.map": "/your-repo-name/static/css/main.e78e06d1.css.map",
-    "main.1b62b3a3.js.map": "/your-repo-name/static/js/main.1b62b3a3.js.map"
+    "main.css": "/aeg/static/css/main.a8ebbbbd.css",
+    "main.js": "/aeg/static/js/main.1b62b3a3.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/aeg/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/aeg/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/aeg/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/aeg/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/aeg/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/aeg/index.html",
+    "main.a8ebbbbd.css.map": "/aeg/static/css/main.a8ebbbbd.css.map",
+    "main.1b62b3a3.js.map": "/aeg/static/js/main.1b62b3a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.e78e06d1.css",
+    "static/css/main.a8ebbbbd.css",
     "static/js/main.1b62b3a3.js"
   ]
 }
