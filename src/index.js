@@ -24,7 +24,7 @@ import { Toaster } from "react-hot-toast";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 const basename = process.env.NODE_ENV === 'production' ? '/aeg' : '/';
 root.render(
-  <BrowserRouter basename={basename}> //edit this
+  <BrowserRouter basename={basename}>
     <ScrollToTop>
       <Provider store={store}>
         <Routes>
